@@ -23,7 +23,8 @@
 Soy un desarrollador y tecnólogo en Análisis y Desarrollo de Software. Poseo conocimientos en Angular, NestJs, TypeScript, Java. Tengo experiencia en Github, Azure DevOps y en la aplicación de metodologías ágiles.
 <!--Intro end-->
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
