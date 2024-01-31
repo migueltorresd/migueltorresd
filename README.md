@@ -32,15 +32,12 @@ Soy un desarrollador y tecnólogo en Análisis y Desarrollo de Software. Poseo c
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=migueltorresd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=migueltorresd&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=migueltorresd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=migueltorresd&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <br></br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=migueltorresd&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 </td>
 
-<td width="50%" align="center">
-  
-  </td>
 </tr>
 </table>
 
