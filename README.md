@@ -1,6 +1,6 @@
 # ¡Hola, soy Miguel! 👋
 
-Soy un desarrollador y tecnólogo en Análisis y Desarrollo de Software. Poseo conocimientos en Angular, NestJs, TypeScript, Java y Go, así como habilidades en herramientas low code. Tengo experiencia en Github, Azure DevOps y en la aplicación de metodologías ágiles. Destaco por mi comunicación efectiva, trabajo en equipo y enfoque proactivo. Mi objetivo es contribuir al éxito de proyectos mediante tecnologías innovadoras.
+Soy un desarrollador y tecnólogo en Análisis y Desarrollo de Software. Poseo conocimientos en Angular, NestJs, TypeScript, Java. Tengo experiencia en Github, Azure DevOps y en la aplicación de metodologías ágiles.
 
 ## 🚀 Tecnologías y Herramientas
 
